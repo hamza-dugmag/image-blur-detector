@@ -1,0 +1,4 @@
+C:\Users\hdugm\OneDrive\Desktop\image-blur-detector\test images\bill2.jpg
+C:\Users\hdugm\OneDrive\Desktop\image-blur-detector\test images\blur.png
+C:\Users\hdugm\OneDrive\Desktop\image-blur-detector\test images\park.jpg
+C:\Users\hdugm\OneDrive\Desktop\image-blur-detector\test images\person.jpg
